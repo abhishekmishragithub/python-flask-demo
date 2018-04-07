@@ -1,2 +1,2 @@
 # python-flask-demo
-Simple web pages using flask framework
+Creating simple web page using flask framework and deploying to azure using azure web app service.
